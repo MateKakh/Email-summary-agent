@@ -1,0 +1,8 @@
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+google-api-python-client==2.127.0
+schedule==1.2.1
+openai==1.30.1
+python-dotenv==1.0.1
+tenacity==8.3.0
